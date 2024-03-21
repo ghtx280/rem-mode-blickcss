@@ -1,6 +1,6 @@
 {
   "name": "rem-mode-blickcss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ghtx280/rem-mode-blickcss.git"
   },
+  "type": "module",
   "keywords": [
     "css",
     "blickcss",
