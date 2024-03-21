@@ -3,7 +3,7 @@
 */
 
 /** @param {{ grade: number, ignore: RegExp }} params */
-export function RemMode(params = {}) {
+function RemMode(params = {}) {
     return (blick) => {
         const { grade, ignore } = params
 

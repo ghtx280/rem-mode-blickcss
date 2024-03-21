@@ -1,0 +1,25 @@
+{
+  "name": "rem-mode-blickcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghtx280/rem-mode-blickcss.git"
+  },
+  "keywords": [
+    "css",
+    "blickcss",
+    "tailwind"
+  ],
+  "author": "ghxt280",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghtx280/rem-mode-blickcss/issues"
+  },
+  "homepage": "https://github.com/ghtx280/rem-mode-blickcss#readme",
+  "unpkg": "/cdn.js"
+}
