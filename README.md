@@ -1,4 +1,4 @@
-## Плагін для BlickCss який робить rem замість px
+## BlickCss plugin that makes rem instead of px
 
 ### Installation
 At the moment, blickcss 2.1.11 does not directly support plugins. However, you can still use this plugin. 
